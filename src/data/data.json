@@ -1,0 +1,113 @@
+{
+  "Header": {
+    "title": "Hi, I'm Fitri Hidayanti",
+    "paragraph": "A web developer expertise in PHP language"
+  },
+  "About": {
+    "paragraph": "Hi, my name is Fitri. I am Graduated from Computer Science Universitas Pendidikan Indonesia (2012 - 2016). I have working experience more than 5 years as web developer. I always committed to delivering high-quality results and distance is not a problem for me to work effectively with you. I will be very communicative to keep you in the loop of the project.",
+    "skill": [
+      "PHP",
+      "Laravel",
+      "CodeIgniter",
+      "Zend Framework",
+      "PostgreSQL",
+      "Oracle Database",
+      "MySQL",
+      "ReactJs"
+    ],
+    "skill2": [
+      "Javascript",
+      "Jquery",
+      "C",
+      "C#",
+      "Java",
+      "ASP .NET",
+      "Matlab",
+      "Node.js"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Human Capital Kementerian BUMN",
+      "largeImage": "img/portfolio/hc-kbumn.png",
+      "smallImage": "img/portfolio/hc-kbumn.png",
+      "desc": "Technology : PHP, Laravel, Jquery, PostgreSql"
+    },
+    {
+      "title": "Dashboard HC Wika Beton",
+      "largeImage": "img/portfolio/hc-wika.png",
+      "smallImage": "img/portfolio/hc-wika.png",
+      "desc": "Technology : PHP, Laravel, Jquery, Oracle Database"
+    },
+    {
+      "title": "BRI Queue",
+      "largeImage": "img/portfolio/bri-queue.png",
+      "smallImage": "img/portfolio/bri-queue.png",
+      "desc": "Technology : PHP, Laravel, Jquery, MySql"
+    },
+    {
+      "title": "Simanis – Sistem Manajemen Informasi ASN",
+      "largeImage": "img/portfolio/simanis.png",
+      "smallImage": "img/portfolio/simanis.png",
+      "desc": "Technology : PHP, Laravel, Jquery, PostgreSql"
+    },
+    {
+      "title": "Office Automation",
+      "largeImage": "img/portfolio/oa.png",
+      "smallImage": "img/portfolio/oa.png",
+      "desc": "Technology : PHP, Zend Framework, Jquery, PostgreSql"
+    },
+    {
+      "title": "KBUMN Reg-PPNPN",
+      "largeImage": "img/portfolio/reg-ppnpn.png",
+      "smallImage": "img/portfolio/reg-ppnpn.png",
+      "desc": "Technology : PHP, Code Igniter, Jquery, PostgreSql"
+    }
+  ],
+  "Experiences": [
+    {
+      "img": "img/experiences/kbumn.jpg",
+      "position": "Web Developer",
+      "year": "January 2017 – 2020",
+      "company": "Kementerian Badan Usaha Milik Negara (BUMN)"
+    },
+    {
+      "img": "img/experiences/infolog.jpg",
+      "position": "Software Engineer",
+      "year": "September 2016 - January 2017",
+      "company": "PT Infolog Solutions Indonesi"
+    },
+    {
+      "img": "img/experiences/b4t.jpg",
+      "position": "Information Section Staff",
+      "year": "January 2016 – March 2016",
+      "company": "Balai Besar Bahan dan Barang Teknik"
+    },
+    {
+      "img": "img/experiences/upi.jpg",
+      "position": "Assistant Lecture of Object Oriented Programming ",
+      "year": "February 2016 – June 2016",
+      "company": "Computer Science UPI"
+    },
+    {
+      "img": "img/experiences/upi.jpg",
+      "position": "Assistant Lecture of Data Structure",
+      "year": "February 2015 – January 2016",
+      "company": "Computer Science UPI"
+    },
+    {
+      "img": "img/experiences/upi.jpg",
+      "position": "Assistant Lecture of Algorithm and Programming I & II",
+      "year": "February 2014 – January 2015",
+      "company": "Computer Science UPI"
+    }
+  ],
+  "Contact": {
+    "address": "Jalan Ki Sendi No 2, Desa Pasindangan, Kec. Gunung Jati, Cirebon",
+    "phone": "+62 877 242 641",
+    "email": "fitrihidayanti25@gmail.com",
+    "facebook": "https://www.facebook.com/fitrihidayanti94/",
+    "linkedin": "https://www.linkedin.com/in/fitrihy/",
+    "instagram": "https://www.instagram.com/fitrihi/"
+  }
+}
